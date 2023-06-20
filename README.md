@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hola!, Soy Bernardo Espinoza    👋
 
+#### I'm Senior Software Engineer and Tech lead
+
+- I'm currently working on update old ruby applications 🚂 -> 🚄
+- I'm creating a ruby application to test API
+-  💬 Ask me about the projects I've worked on privatly
+-  📫 How to reach me: https://bernespinoza.github.io/
+
+[![Bernardo Espinoza GitHub stats](https://github-readme-stats-three-murex-97.vercel.app/api?username=bernespinoza&show_icons=true&theme=transparent)](https://github.com/bernespinoza/github-readme-stats)
 <!--
 **bernespinoza/bernespinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
