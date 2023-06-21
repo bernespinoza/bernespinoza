@@ -7,7 +7,7 @@
 -  💬 Ask me about the projects I've worked on privatly
 -  📫 How to reach me: https://bernespinoza.github.io/
 
-[![Bernardo Espinoza GitHub stats](https://github-readme-stats-three-murex-97.vercel.app/api?username=bernespinoza&show_icons=true&theme=transparent)](https://github.com/bernespinoza/github-readme-stats)
+[![Bernardo Espinoza GitHub stats](https://github-readme-stats-three-murex-97.vercel.app/api?username=bernespinoza&show_icons=true&theme=transparent&hide=stars&include_all_commits=true)](https://github.com/bernespinoza/github-readme-stats)
 <!--
 **bernespinoza/bernespinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
