@@ -8,6 +8,8 @@
 -  📫 How to reach me: https://bernespinoza.github.io/
 
 [![Bernardo Espinoza GitHub stats](https://github-readme-stats-bernespinoza.vercel.app/api?username=bernespinoza&show_icons=true&theme=transparent&hide=stars&include_all_commits=true)](https://github.com/bernespinoza/github-readme-stats)
+
+[![Bernardo Espinoza GitHub stats](https://github-readme-stats-bernespinoza.vercel.app/api?username=bernesp&show_icons=true&theme=transparent&hide=stars&include_all_commits=true)](https://github.com/bernespinoza/github-readme-stats)
 <!--
 **bernespinoza/bernespinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
